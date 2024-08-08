@@ -1,0 +1,6 @@
+para setar webhook: ./setWebHook.sh <Token do bot> <url>
+para conferir: ./getWebHook.sh <Token do bot>
+
+
+no get ele deve retornar nos parametros algo do tipo: 
+"url":"https://1qiza7p8he.execute-api.us-east-2.amazonaws.com/StageBOT/webhook"
